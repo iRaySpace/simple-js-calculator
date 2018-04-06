@@ -1,4 +1,4 @@
-// TODO: functions
+// TODO: selecting different operators (bug), decimal function
 
 // Handle any button clicks
 var numberBtns = document.getElementsByClassName("number-button");
